@@ -1,3 +1,4 @@
 name: Architect Theme
 markdown: kramdown
 highlighter: true
+baseurl: /3Dprtbls
