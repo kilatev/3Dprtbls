@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Cofee bag lid"
+date:   2014-10-06 21:36:56
+categories: thingieverse
+---
+
+So here is my first post.
+
+In search of useful stuff to print i found one little, but interesting thing.
+
+This is coffee bag lid. Not like ordinary clip to close coffee bag, but something special, which can't be found at shops.
+
+I printed it yesterday and it was easy print. But still not ideal, as not all details fits after printing. But i suspect that it could be my PLA problem.
+
+Here is a link http://www.thingiverse.com/thing:40593
+
+[jekyll-gh].
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
