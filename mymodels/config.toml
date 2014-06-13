@@ -1,0 +1,6 @@
+languageCode = "en-us"
+contentdir= "content"
+layoutdir= "layouts"
+publishdir= "public"
+baseurl= "http://kilatev.github.io/3Dprtbls/mymodels"
+title= "Hugo Blog Template for GitHub Pages"
